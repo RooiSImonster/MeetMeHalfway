@@ -1,0 +1,7 @@
+{
+  "name": "MeetHalfway - Restaurant Finder",
+  "description": "Find the perfect dining spot halfway between you and your friends using AI-powered geographical calculations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
